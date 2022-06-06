@@ -1,5 +1,4 @@
-const santiagoSuarez = {    
-pronouns: "he" | "his"  
+const santiagoSuarez = {   
 code: [HTML, CSS, Bootstrap, JavaScript],   
 interests: [engineering, development]   
 }
